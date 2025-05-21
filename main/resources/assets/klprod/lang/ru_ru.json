@@ -1,0 +1,36 @@
+{
+  "itemGroup.klprod_tab": "Предметы",
+
+  "item.klprod.emerald_helmet": "Изумрудный шлем",
+  "item.klprod.emerald_chestplate": "Изумрудный нагрудник",
+  "item.klprod.emerald_leggings": "Изумрудные поножи",
+  "item.klprod.emerald_boots": "Изумрудные ботинки",
+
+  "item.klprod.redstone_helmet": "Редстоуновый шлем",
+  "item.klprod.redstone_chestplate": "Редстоуновый нагрудник",
+  "item.klprod.redstone_leggings": "Редстоуновые поножи",
+  "item.klprod.redstone_boots": "Редстоуновые ботинки",
+
+  "item.klprod.lapis_helmet": "Лазуритовый шлем",
+  "item.klprod.lapis_chestplate": "Лазуритовый нагрудник",
+  "item.klprod.lapis_leggings": "Лазуритовые поножи",
+  "item.klprod.lapis_boots": "Лазуритовые ботинки",
+
+  "item.klprod.emerald_sword": "Изумрудный меч",
+  "item.klprod.emerald_pickaxe": "Изумрудная кирка",
+  "item.klprod.emerald_axe": "Изумрудный топор",
+  "item.klprod.emerald_shovel": "Изумрудная лопата",
+  "item.klprod.emerald_hoe": "Изумрудная мотыга",
+
+  "item.klprod.redstone_sword": "Редстоуновый меч",
+  "item.klprod.redstone_pickaxe": "Редстоуновая кирка",
+  "item.klprod.redstone_axe": "Редстоуновый топор",
+  "item.klprod.redstone_shovel": "Редстоуновая лопата",
+  "item.klprod.redstone_hoe": "Редстоуновая мотыга",
+
+  "item.klprod.lapis_sword": "Лазуритовый меч",
+  "item.klprod.lapis_pickaxe": "Лазуритовая кирка",
+  "item.klprod.lapis_axe": "Лазуритовый топор",
+  "item.klprod.lapis_shovel": "Лазуритовая лопата",
+  "item.klprod.lapis_hoe": "Лазуритовая мотыга"
+}
